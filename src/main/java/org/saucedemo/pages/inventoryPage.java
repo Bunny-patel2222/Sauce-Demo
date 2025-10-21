@@ -80,8 +80,7 @@ public class inventoryPage {
         for (WebElement item : items) {
             if (item.getText().equalsIgnoreCase(name)) {
                logger.info("Clicked on item: {}", item.getText());
-                //System.out.println("Clicked on item: " + item.getText());
-                item.click();
+               item.click();
                 addSingeItemToCart(item.getText());
                 break;
             }
@@ -93,13 +92,11 @@ public class inventoryPage {
         for (WebElement item : items) {
             if (item.getText().equalsIgnoreCase(name)) {
                 logger.info("Found item: {}", item.getText());
-              //  System.out.println("Found item: " + item.getText());
                 WebElement addToCartButton = itemToCartButtonMap.get(name);
                 if (addToCartButton != null) {
                     wait.until(ExpectedConditions.elementToBeClickable(addToCartButton));
                     addToCartButton.click();
                     logger.info("Added to cart: {}", name);
-                    //System.out.println("Added to cart: " + name);
                 }
                 break;
             }

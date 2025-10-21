@@ -10,18 +10,13 @@ import org.testng.annotations.Test;
 
 public class addToCart extends BaseTest {
     private static final Logger logger = LogManager.getLogger(addToCart.class);
+
     @Test(priority = 2)
     public void testAddToCart() {
 
         String itemsFromConfig = ConfigReader.getProperty("itemsToBuy");
-       // String[] itemsToAdd = itemsFromConfig.split(",");
+        // String[] itemsToAdd = itemsFromConfig.split(",");
         String[] trimmedItemsToAdd = itemsFromConfig.trim().split("\\s*,\\s*");
-
-//        String[] itemsToAdd = {
-//                "Sauce Labs Fleece Jacket",
-//                "Sauce Labs Bolt T-Shirt",
-//                "Sauce Labs Backpack"
-//        };
 
 
         inventoryPage inventoryPage = new inventoryPage(DriverManager.getDriver());
@@ -31,8 +26,6 @@ public class addToCart extends BaseTest {
 
             inventoryPage.addToCartByName(itemName);
         }
-        //   inventoryPage.addItemToCart();
-        // wait.until(ExpectedConditions.titleContains("Sauce Labs Bolt T-Shirt"));
     }
 
 

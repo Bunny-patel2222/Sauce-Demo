@@ -22,7 +22,6 @@ public class CheckOut extends BaseTest {
         checkOutPage checkOutPage = new checkOutPage(DriverManager.getDriver());
         checkOutPage.checkOutTest();
         checkOutPage.completeCheckOut(firstname, lastname, postalcode);
-       // checkOutPage.checkOutProcess("John", "Doe", "12345");
 
 
     }
