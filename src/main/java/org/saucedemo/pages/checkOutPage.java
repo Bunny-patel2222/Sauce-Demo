@@ -55,12 +55,10 @@ public class checkOutPage {
         shoppingCartLink.click();
         // Thread.sleep(5000);
         logger.info("Navigated to: {}" , driver.getTitle());
-       // System.out.println(driver.getTitle());
         List<String> itemNames = inventoryItemNames.stream()
                 .map(WebElement::getText)
                 .toList();
         logger.info("Items in inventory: {}" , itemNames);
-       // System.out.println("Item in inventory" + itemNames);
         checkoutButton.click();
     }
 
@@ -78,7 +76,6 @@ public class checkOutPage {
         finishButton.click();
 
         logger.info("Navigate to: {}" , orderCompletionHeader.getText());
-       // System.out.println(orderCompletionHeader.getText());
 
 
     }
