@@ -1,0 +1,417 @@
+2025-10-19 09:55:42.340 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 09:55:42.356 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 09:55:47.670 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 09:55:47.759 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 09:55:48.524 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:00:02.654 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:00:02.658 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:00:05.317 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:00:05.398 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:00:05.942 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:09:07.147 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:09:07.151 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:09:08.994 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:09:09.098 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:09:10.109 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:15:17.673 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:15:17.678 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:15:19.555 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:15:19.621 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:15:27.032 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:15:31.580 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:15:31.584 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:15:33.449 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:15:33.536 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:15:54.369 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:16:10.168 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:16:10.168 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:16:12.105 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:16:12.166 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:16:17.544 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:16:41.171 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:16:41.171 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:16:43.038 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:16:43.109 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:17:03.833 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:24:07.923 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:24:07.923 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 10:24:09.851 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:24:09.920 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:24:20.834 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 10:25:05.004 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:25:05.004 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 10:25:09.500 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:25:09.577 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:27:02.383 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 10:27:02.387 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 10:27:06.542 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 10:27:06.629 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 10:27:17.947 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:10:51.055 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:10:51.057 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:10:55.877 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:10:55.974 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:11:11.431 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:11:11.447 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:11:15.908 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:11:15.985 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:12:02.266 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:12:02.266 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:12:06.286 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:12:06.402 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:12:38.344 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:12:38.348 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:12:42.409 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:12:42.499 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:12:43.776 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:13:02.290 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:13:02.290 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:13:06.667 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:13:06.756 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:13:27.896 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:13:51.755 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:13:51.755 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:13:56.092 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:13:56.180 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:13:57.317 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:17:15.633 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:17:15.638 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:17:20.692 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:17:20.788 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:17:22.023 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:17:39.400 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:17:39.404 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:17:41.987 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:17:42.086 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:17:42.959 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:18:24.391 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:18:24.395 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:18:26.226 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:18:26.328 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:18:27.063 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:19:24.416 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:19:24.423 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:19:26.237 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:19:26.333 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:19:27.074 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:19:42.564 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:19:42.580 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:19:44.435 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:19:44.503 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:19:45.424 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:19:58.409 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:19:58.424 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:20:00.318 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:20:00.390 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:20:01.168 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:22:00.766 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:22:00.766 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:22:02.619 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:22:02.724 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:22:23.561 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:23:14.285 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:23:14.301 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 11:23:16.243 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:23:16.313 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:23:24.678 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:23:47.397 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:23:47.405 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:23:51.965 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:23:52.082 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:25:20.996 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:25:21.011 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:25:25.137 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:25:25.227 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:27:26.209 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:29:26.387 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:29:26.392 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:29:31.169 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:29:31.250 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:29:52.594 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:30:20.121 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:30:20.127 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:30:24.429 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:30:24.525 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:30:45.824 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:32:54.205 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:32:54.208 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:32:58.402 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:32:58.485 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:32:59.767 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 11:33:46.209 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 11:33:46.225 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 11:33:50.546 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 11:33:50.635 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 11:33:51.898 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:13:36.231 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:13:36.231 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:13:44.737 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:13:45.008 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:13:47.778 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:13:57.113 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:13:57.120 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:14:04.395 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:14:04.662 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:32:21.264 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:32:21.272 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:32:29.577 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:32:29.847 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:32:32.062 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:32:32.062 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:32:32.071 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:32:38.209 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:33:39.511 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:33:39.511 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:33:39.511 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:33:45.214 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:34:06.354 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:38:36.951 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:38:36.955 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:38:45.133 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:38:45.454 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:38:47.588 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:38:47.588 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:38:47.588 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:38:53.472 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:38:56.663 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:38:56.664 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:39:08.179 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:39:29.533 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:39:45.314 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:39:45.352 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:39:53.907 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:39:54.224 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:39:56.403 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:47:08.302 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:47:08.309 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:47:16.792 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:47:17.519 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:47:20.524 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:49:25.852 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:49:25.858 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:49:33.561 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:49:33.896 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:49:36.834 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:51:26.291 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:51:26.291 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:51:33.631 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:51:33.975 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:51:37.143 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:52:33.438 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:52:33.446 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:52:41.521 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:52:41.889 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:53:04.981 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 12:54:41.848 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:54:41.851 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:54:49.436 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:54:49.991 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:58:16.291 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:58:16.298 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:58:24.458 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:58:36.093 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 12:58:36.101 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 12:58:43.540 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 12:58:43.870 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 12:59:26.798 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 13:02:57.696 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 13:02:57.701 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 13:03:05.394 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 13:03:05.782 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 13:06:36.060 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 13:06:36.069 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 13:06:44.010 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 13:06:44.362 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 13:06:59.390 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 13:08:13.641 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 13:08:13.653 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 13:08:21.212 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 13:08:21.694 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 13:08:44.491 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 13:09:39.889 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 13:09:39.890 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 13:09:47.940 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 13:09:48.264 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:34:47.239 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:34:47.239 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 16:34:52.202 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:34:52.309 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:35:13.886 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:41:03.325 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:41:03.325 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 16:41:07.793 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:41:07.930 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:41:10.140 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:45:11.048 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:45:11.054 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 16:45:15.835 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:45:15.941 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:45:17.845 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:46:14.943 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:46:14.943 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 16:46:17.721 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:46:17.827 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:46:19.191 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:47:45.462 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:47:45.473 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 16:47:47.334 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:47:47.438 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:47:48.976 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:49:08.943 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:49:08.943 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 16:49:10.867 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:49:10.984 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:49:22.442 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:50:04.793 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:50:04.793 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 16:50:06.640 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:50:06.758 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:50:18.120 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:52:05.733 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:52:05.733 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 16:52:07.606 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:52:07.735 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:52:18.946 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:58:43.055 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:58:43.066 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: chrome
+2025-10-19 16:58:45.288 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:58:45.405 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:58:51.707 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:59:10.197 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:59:10.206 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 16:59:14.915 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:59:15.036 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:59:21.867 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:59:37.542 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:59:37.546 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 16:59:41.569 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 16:59:41.700 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 16:59:48.387 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 16:59:57.892 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 16:59:57.896 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:00:01.821 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:00:01.940 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:00:08.738 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:13:59.665 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:13:59.675 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:14:04.895 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:14:05.003 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:14:27.124 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:15:31.952 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:15:31.952 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:15:36.187 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:15:36.281 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:15:38.471 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:18:26.249 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:18:26.249 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:18:30.649 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:18:30.785 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:18:32.896 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:23:30.660 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:23:30.666 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:23:35.314 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:23:35.429 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:23:35.805 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Backpack
+2025-10-19 17:23:35.821 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bike Light
+2025-10-19 17:23:35.853 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bolt T-Shirt
+2025-10-19 17:23:35.853 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Fleece Jacket
+2025-10-19 17:23:35.869 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Onesie
+2025-10-19 17:23:35.885 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Test.allTheThings() T-Shirt (Red)
+2025-10-19 17:23:36.029 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Backpack to button: add-to-cart-sauce-labs-backpack
+2025-10-19 17:23:36.061 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bike Light to button: add-to-cart-sauce-labs-bike-light
+2025-10-19 17:23:36.092 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bolt T-Shirt to button: add-to-cart-sauce-labs-bolt-t-shirt
+2025-10-19 17:23:36.140 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Fleece Jacket to button: add-to-cart-sauce-labs-fleece-jacket
+2025-10-19 17:23:36.204 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Onesie to button: add-to-cart-sauce-labs-onesie
+2025-10-19 17:23:36.235 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Test.allTheThings() T-Shirt (Red) to button: add-to-cart-test.allthethings()-t-shirt-(red)
+2025-10-19 17:23:36.283 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Fleece Jacket
+2025-10-19 17:23:36.362 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Fleece Jacket
+2025-10-19 17:23:36.383 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bolt T-Shirt
+2025-10-19 17:23:36.475 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bolt T-Shirt
+2025-10-19 17:23:36.496 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Backpack
+2025-10-19 17:23:36.584 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Backpack
+2025-10-19 17:23:36.664 [main] INFO  org.saucedemo.pages.checkOutPage - Navigated to: Swag Labs
+2025-10-19 17:23:36.711 [main] INFO  org.saucedemo.pages.checkOutPage - Items in inventory: [Sauce Labs Fleece Jacket, Sauce Labs Bolt T-Shirt, Sauce Labs Backpack]
+2025-10-19 17:23:37.013 [main] INFO  org.saucedemo.pages.checkOutPage - Navigate to: Thank you for your order!
+2025-10-19 17:23:37.641 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:29:13.778 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:29:13.782 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:29:19.006 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:29:19.116 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:29:19.449 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Backpack
+2025-10-19 17:29:19.465 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bike Light
+2025-10-19 17:29:19.481 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bolt T-Shirt
+2025-10-19 17:29:19.497 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Fleece Jacket
+2025-10-19 17:29:19.512 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Onesie
+2025-10-19 17:29:19.531 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Test.allTheThings() T-Shirt (Red)
+2025-10-19 17:29:19.703 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Backpack to button: add-to-cart-sauce-labs-backpack
+2025-10-19 17:29:19.735 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bike Light to button: add-to-cart-sauce-labs-bike-light
+2025-10-19 17:29:19.783 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bolt T-Shirt to button: add-to-cart-sauce-labs-bolt-t-shirt
+2025-10-19 17:29:19.815 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Fleece Jacket to button: add-to-cart-sauce-labs-fleece-jacket
+2025-10-19 17:29:19.863 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Onesie to button: add-to-cart-sauce-labs-onesie
+2025-10-19 17:29:19.926 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Test.allTheThings() T-Shirt (Red) to button: add-to-cart-test.allthethings()-t-shirt-(red)
+2025-10-19 17:29:19.958 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Backpack
+2025-10-19 17:29:20.069 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Backpack
+2025-10-19 17:29:20.085 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bike Light
+2025-10-19 17:29:20.165 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bike Light
+2025-10-19 17:29:20.181 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bolt T-Shirt
+2025-10-19 17:29:20.260 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bolt T-Shirt
+2025-10-19 17:29:20.293 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bike Light
+2025-10-19 17:29:20.452 [main] INFO  org.saucedemo.pages.checkOutPage - Navigated to: Swag Labs
+2025-10-19 17:29:20.483 [main] INFO  org.saucedemo.pages.checkOutPage - Items in inventory: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt]
+2025-10-19 17:29:20.768 [main] INFO  org.saucedemo.pages.checkOutPage - Navigate to: Thank you for your order!
+2025-10-19 17:29:21.406 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:30:16.356 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:30:16.365 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:30:20.549 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:30:20.645 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:30:20.993 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Backpack
+2025-10-19 17:30:20.993 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bike Light
+2025-10-19 17:30:21.009 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bolt T-Shirt
+2025-10-19 17:30:21.027 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Fleece Jacket
+2025-10-19 17:30:21.051 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Onesie
+2025-10-19 17:30:21.067 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Test.allTheThings() T-Shirt (Red)
+2025-10-19 17:30:21.264 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Backpack to button: add-to-cart-sauce-labs-backpack
+2025-10-19 17:30:21.350 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bike Light to button: add-to-cart-sauce-labs-bike-light
+2025-10-19 17:30:21.373 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bolt T-Shirt to button: add-to-cart-sauce-labs-bolt-t-shirt
+2025-10-19 17:30:21.394 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Fleece Jacket to button: add-to-cart-sauce-labs-fleece-jacket
+2025-10-19 17:30:21.427 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Onesie to button: add-to-cart-sauce-labs-onesie
+2025-10-19 17:30:21.438 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Test.allTheThings() T-Shirt (Red) to button: add-to-cart-test.allthethings()-t-shirt-(red)
+2025-10-19 17:30:21.460 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Backpack
+2025-10-19 17:30:21.534 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Backpack
+2025-10-19 17:30:21.549 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bike Light
+2025-10-19 17:30:21.628 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bike Light
+2025-10-19 17:30:21.660 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bolt T-Shirt
+2025-10-19 17:30:21.739 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bolt T-Shirt
+2025-10-19 17:30:21.786 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bike Light
+2025-10-19 17:30:21.898 [main] INFO  org.saucedemo.pages.checkOutPage - Navigated to: Swag Labs
+2025-10-19 17:30:21.922 [main] INFO  org.saucedemo.pages.checkOutPage - Items in inventory: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt]
+2025-10-19 17:30:22.213 [main] INFO  org.saucedemo.pages.checkOutPage - Navigate to: Thank you for your order!
+2025-10-19 17:30:22.850 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully
+2025-10-19 17:43:25.871 [main] INFO  org.saucedemo.baseSetup.BaseTest - Launching Browser and Navigating to  https://www.saucedemo.com/
+2025-10-19 17:43:25.871 [main] INFO  org.saucedemo.baseSetup.BaseTest - Setting up browser: firefox
+2025-10-19 17:43:30.564 [main] INFO  org.saucedemo.baseSetup.BaseTest - Login Page Title isSwag Labs
+2025-10-19 17:43:30.676 [main] INFO  org.saucedemo.pages.loginPage - Attempting to log in with username: standard_user
+2025-10-19 17:43:31.045 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Backpack
+2025-10-19 17:43:31.060 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bike Light
+2025-10-19 17:43:31.076 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Bolt T-Shirt
+2025-10-19 17:43:31.098 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Fleece Jacket
+2025-10-19 17:43:31.124 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Sauce Labs Onesie
+2025-10-19 17:43:31.140 [main] INFO  org.saucedemo.pages.inventoryPage - Item Name: Test.allTheThings() T-Shirt (Red)
+2025-10-19 17:43:31.251 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Backpack to button: add-to-cart-sauce-labs-backpack
+2025-10-19 17:43:31.298 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bike Light to button: add-to-cart-sauce-labs-bike-light
+2025-10-19 17:43:31.346 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Bolt T-Shirt to button: add-to-cart-sauce-labs-bolt-t-shirt
+2025-10-19 17:43:31.378 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Fleece Jacket to button: add-to-cart-sauce-labs-fleece-jacket
+2025-10-19 17:43:31.410 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Sauce Labs Onesie to button: add-to-cart-sauce-labs-onesie
+2025-10-19 17:43:31.426 [main] INFO  org.saucedemo.pages.inventoryPage - Mapped item: Test.allTheThings() T-Shirt (Red) to button: add-to-cart-test.allthethings()-t-shirt-(red)
+2025-10-19 17:43:31.446 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Backpack
+2025-10-19 17:43:31.520 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Backpack
+2025-10-19 17:43:31.553 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bike Light
+2025-10-19 17:43:31.633 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bike Light
+2025-10-19 17:43:31.648 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Bolt T-Shirt
+2025-10-19 17:43:31.728 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Bolt T-Shirt
+2025-10-19 17:43:31.775 [main] INFO  org.saucedemo.pages.inventoryPage - Found item: Sauce Labs Onesie
+2025-10-19 17:43:31.871 [main] INFO  org.saucedemo.pages.inventoryPage - Added to cart: Sauce Labs Onesie
+2025-10-19 17:43:31.954 [main] INFO  org.saucedemo.pages.checkOutPage - Navigated to: Swag Labs
+2025-10-19 17:43:31.976 [main] INFO  org.saucedemo.pages.checkOutPage - Items in inventory: [Sauce Labs Backpack, Sauce Labs Bike Light, Sauce Labs Bolt T-Shirt, Sauce Labs Onesie]
+2025-10-19 17:43:32.290 [main] INFO  org.saucedemo.pages.checkOutPage - Navigate to: Thank you for your order!
+2025-10-19 17:43:32.925 [main] INFO  org.saucedemo.baseSetup.BaseTest - Browser Closed Successfully

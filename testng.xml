@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Automation-Practice/Sauce_Demo">
+        <classes>
+            <class name="org.saucedemo.tests.LoginTest">
+                <!--                <methods>-->
+                <!--                    <include name="testLogin"/>-->
+                <!--                </methods>-->
+            </class>
+            <class name="org.saucedemo.tests.addToCart">
+                <!--                <methods>-->
+                <!--                    <include name="testAddToCart"/>-->
+                <!--                </methods>-->
+            </class>
+            <class name="org.saucedemo.tests.CheckOut">
+<!--                <methods>-->
+<!--                    <include name="testCheckout"/>-->
+<!--                </methods>-->
+            </class>
+
+
+        </classes>
+    </test>
+</suite>
