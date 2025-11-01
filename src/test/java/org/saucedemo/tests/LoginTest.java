@@ -17,6 +17,9 @@ public    String username =  ConfigReader.getProperty("Standarduser");
         LoginPage.login(username, password);
 
 
+        // Add assertions here to verify successful login
+        assert driver.getCurrentUrl().contains("inventory.html");
+
 
     }
 }
