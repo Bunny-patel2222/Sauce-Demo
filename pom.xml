@@ -16,11 +16,12 @@
 
   <dependencies>
 
-    <dependency>
-      <groupId>org.seleniumhq.selenium</groupId>
-      <artifactId>selenium-java</artifactId>
-      <version>4.24.0</version> <!-- Updated to valid version -->
-    </dependency>
+   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.38.0</version>
+</dependency>
     <dependency>
       <groupId>io.github.bonigarcia</groupId>
       <artifactId>webdrivermanager</artifactId>
@@ -62,6 +63,7 @@
       <artifactId>selenium-devtools-v120</artifactId>
       <version>4.17.0</version>
     </dependency>
+  
 
   </dependencies>
 
@@ -81,9 +83,7 @@
         <artifactId>maven-surefire-plugin</artifactId>
         <version>3.5.0</version>
         <configuration>
-          <argLine>
-            -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/1.9.24/aspectjweaver-1.9.24.jar"
-          </argLine>
+    
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>

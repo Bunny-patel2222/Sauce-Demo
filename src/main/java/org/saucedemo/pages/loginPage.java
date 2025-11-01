@@ -33,6 +33,15 @@ public class loginPage {
         loginButton.click();
        String pageTitle =  driver.getTitle();
          System.out.println("Page Title after login: " + pageTitle);
+         // Add assertions here to verify successful login and print result
+        if (driver.getTitle().equals("Swag Labs")) {
+            System.out.println("Login Test Passed: Successfully logged in.");
+        } else {
+            System.out.println("Login Test Failed: Login was unsuccessful.");
+            
+        }
+
+        assert driver.getCurrentUrl().contains("inventory.html");
     }
 
 
