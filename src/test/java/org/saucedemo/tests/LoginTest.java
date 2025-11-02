@@ -16,7 +16,5 @@ public    String username =  ConfigReader.getProperty("Standarduser");
 
         LoginPage.login(username, password);
 
-
-
     }
 }
